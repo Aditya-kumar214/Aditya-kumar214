@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hey there, I'm **Aditya Kumar**!  
 
-<!--
-**Aditya-kumar214/Aditya-kumar214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Full Stack Developer | Tech Enthusiast | Problem Solver`**  
 
-Here are some ideas to get you started:
+🌟 Welcome to my GitHub profile! I’m a passionate developer who loves crafting intuitive, responsive, and modern web applications. Whether it’s diving deep into front-end aesthetics or tackling the complexities of back-end logic, I’m all about creating meaningful tech solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+
+- 🌱 **Learning & Building:** Currently exploring **WebRTC**, **WebSockets**, and advanced **React APIs** like `useContext`.  
+- 💻 **Skills:** Full-stack development, interactive UI/UX, and modern 3D web design.  
+- 🛠️ **Tech Stack:**  
+  - **Front-End:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS  
+  - **Back-End:** Node.js, Express.js  
+  - **Database:** MongoDB, Firebase  
+  - **Tools & Platforms:** Git, Vite, Figma  
+
+- 🌐 **Goal:** To solve real-world problems through innovative web apps and contribute to the developer community.  
+
+---
+
+## 💡 What I’m Working On  
+
+- 🌍 **A Nature-Inspired Dynamic Website:** Reflects real-world weather, time, and environment conditions.  
+- 🤖 **CODU Chatbot:** A smart chatbot for real-time coding assistance and clean code generation in multiple programming languages.  
+
+---
+
+## 🌟 Fun Facts About Me  
+
+- When I’m not coding, I’m brainstorming **unique startup ideas** to solve real-life challenges.  
+- I enjoy building **responsive, user-friendly websites** and tinkering with **3D visuals**.  
+
+---
+
+
+## 🛠️ Featured Projects  
+
+### **Dynamic Weather UI Website**  
+_A scenario-based website that reflects real-life weather, time, and environment changes._
+
+### **CODU Chatbot**  
+_A coding assistant that answers queries and generates clean, efficient code._  
+
+---
+
+💻 **“Keep building. Keep innovating.”**
+
+---
